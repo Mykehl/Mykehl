@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mykehl
-- 👀 I’m interested in coding & crypto
+- 👀 I’m interested in frontend development 
 - 🌱 I’m currently learning HTML, CSS, JavaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
